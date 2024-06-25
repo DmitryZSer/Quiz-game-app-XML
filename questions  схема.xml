@@ -1,0 +1,12 @@
+<TestQuestions>
+  <Topic Name=""> <!--Наименование темы-->
+    <Level Number=""><!--Уровни сложности тем от 1 до 3-->
+      <Question>
+        <Text>
+          <!--Текст вопроса-->
+        </Text>
+        <Answer IsCorrect=""></Answer><!--Значение isCorrect true/false-->
+      </Question>
+    </Level>
+  </Topic>
+</TestQuestions>

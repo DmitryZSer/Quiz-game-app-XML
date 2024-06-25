@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u041F 01.01\\\u041B\u0430\u04317\\\u041B\u04207\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6EDB23-CE63-4958-8959-93633C20556A}|\u041B\u0430\u04317\\\u041B\u0430\u04317.csproj|d:\\\u0443\u043F 01.01\\\u043B\u0430\u04317\\\u043B\u04407\\\u043B\u0430\u04317\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6EDB23-CE63-4958-8959-93633C20556A}|\u041B\u0430\u04317\\\u041B\u0430\u04317.csproj|solutionrelative:\u043B\u0430\u04317\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6EDB23-CE63-4958-8959-93633C20556A}|\u041B\u0430\u04317\\\u041B\u0430\u04317.csproj|d:\\\u0443\u043F 01.01\\\u043B\u0430\u04317\\\u043B\u04407\\\u043B\u0430\u04317\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6EDB23-CE63-4958-8959-93633C20556A}|\u041B\u0430\u04317\\\u041B\u0430\u04317.csproj|solutionrelative:\u043B\u0430\u04317\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6EDB23-CE63-4958-8959-93633C20556A}|\u041B\u0430\u04317\\\u041B\u0430\u04317.csproj|d:\\\u0443\u043F 01.01\\\u043B\u0430\u04317\\\u043B\u04407\\\u043B\u0430\u04317\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6EDB23-CE63-4958-8959-93633C20556A}|\u041B\u0430\u04317\\\u041B\u0430\u04317.csproj|solutionrelative:\u043B\u0430\u04317\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F 01.01\\\u041B\u0430\u04317\\\u041B\u04207\\\u041B\u0430\u04317\\Program.cs",
+              "RelativeDocumentMoniker": "\u041B\u0430\u04317\\Program.cs",
+              "ToolTip": "D:\\\u0423\u041F 01.01\\\u041B\u0430\u04317\\\u041B\u04207\\\u041B\u0430\u04317\\Program.cs",
+              "RelativeToolTip": "\u041B\u0430\u04317\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:38:02.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F 01.01\\\u041B\u0430\u04317\\\u041B\u04207\\\u041B\u0430\u04317\\MainForm.cs",
+              "RelativeDocumentMoniker": "\u041B\u0430\u04317\\MainForm.cs",
+              "ToolTip": "D:\\\u0423\u041F 01.01\\\u041B\u0430\u04317\\\u041B\u04207\\\u041B\u0430\u04317\\MainForm.cs",
+              "RelativeToolTip": "\u041B\u0430\u04317\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:33:03.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u041F 01.01\\\u041B\u0430\u04317\\\u041B\u04207\\\u041B\u0430\u04317\\MainForm.cs",
+              "RelativeDocumentMoniker": "\u041B\u0430\u04317\\MainForm.cs",
+              "ToolTip": "D:\\\u0423\u041F 01.01\\\u041B\u0430\u04317\\\u041B\u04207\\\u041B\u0430\u04317\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u041B\u0430\u04317\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:31:53.289Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
