@@ -1,0 +1,71 @@
+E:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.Properties.Resources.resources
+E:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe.config
+E:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe
+E:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.pdb
+E:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.exe
+E:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.pdb
+E:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.QuizForm.resources
+H:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csprojAssemblyReference.cache
+H:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.Form1.resources
+H:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.Properties.Resources.resources
+H:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.GenerateResource.cache
+H:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+H:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.exe
+H:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.pdb
+H:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe.config
+H:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe
+H:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.pdb
+H:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.QuizForm.resources
+F:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe.config
+F:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe
+F:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.pdb
+F:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.Properties.Resources.resources
+F:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.QuizForm.resources
+F:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.GenerateResource.cache
+F:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.exe
+F:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.pdb
+F:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.MainMenu.resources
+F:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.AdminPanel.resources
+D:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe.config
+D:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe
+D:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.pdb
+D:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.AdminPanel.resources
+D:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.MainMenu.resources
+D:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.Properties.Resources.resources
+D:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.QuizForm.resources
+D:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.exe
+D:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.pdb
+G:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe.config
+G:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.exe
+G:\УП 01.01\Лаб7\ЛР7\Test\bin\Debug\Test.pdb
+G:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+G:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.AdminPanel.resources
+G:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.MainMenu.resources
+G:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.Properties.Resources.resources
+G:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.QuizForm.resources
+G:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.GenerateResource.cache
+G:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.exe
+G:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.pdb
+E:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.AdminPanel.resources
+E:\УП 01.01\Лаб7\ЛР7\Test\obj\Debug\Test.MainMenu.resources
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\bin\Debug\Test.exe.config
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\bin\Debug\Test.exe
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\bin\Debug\Test.pdb
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\obj\Debug\Test.AdminPanel.resources
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\obj\Debug\Test.MainMenu.resources
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\obj\Debug\Test.Properties.Resources.resources
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\obj\Debug\Test.QuizForm.resources
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\obj\Debug\Test.exe
+E:\УП 01.01\Лаб7 (XML, парсинг, классы, файлы, flowPanel)\ЛР7\Test\obj\Debug\Test.pdb

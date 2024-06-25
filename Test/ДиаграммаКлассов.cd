@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Test.Program">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.QuizData">
+    <Position X="6" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Topic">
+    <Position X="8.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Level">
+    <Position X="6" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Question">
+    <Position X="6.25" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Answer">
+    <Position X="8.75" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIACAAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.QuizForm">
+    <Position X="12.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAABACAAABgIAECKAAgCQAAIMIEICEQIAAQAkCA=</HashCode>
+      <FileName>QuizForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.MainMenu">
+    <Position X="16" Y="0.5" Width="4.5" />
+    <NestedTypes>
+      <Class Name="Test.MainMenu.FileController">
+        <TypeIdentifier>
+          <NewMemberFileName>MainMenu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IEAAAAAAACAgEBAQAASAAAACAAA4AAAACGAAAogAAAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.AdminPanel">
+    <Position X="20.75" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACQAABQAggGAAAACACAwgAgAEAACAQAAAgA=</HashCode>
+      <FileName>AdminPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
